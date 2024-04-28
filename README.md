@@ -1,5 +1,5 @@
 # Django Training Arc
-A Django Workshop Session for UP Mindanao SPARCS. Follow the commands below to follow along the workshop
+A Django Workshop Session for UP Mindanao SPARCS. This will follow the official Django Documentation Tutorial [https://docs.djangoproject.com/en/5.0/intro/tutorial01/](https://docs.djangoproject.com/en/5.0/intro/tutorial01/). Follow the commands below to setup your local environment to follow along the workshop.
 
 ## Setup Environment
 1. ### Make sure Python 3.10 is installed in your machine.
